@@ -1,0 +1,49 @@
+(venv) C:\Users\PV\PycharmProjects\test-task>python main.py d:\sample-0-origin.html d:\sample-4-the-mash.html
+Candidate element: {'id': None, 'tag': 'a', 'class': 'navbar-brand', 'title': None, 'href': 'index.html', 'content': 'SB Admin v2.0', 'index': 0}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'dropdown-toggle', 'title': None, 'href': '#', 'content': '<i class="fa fa-envelope fa-fw"></i> <i class="fa fa-caret-down"></i>', 'index': 1}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'pull-right text-muted', 'title': None, 'href': '#', 'content': '<strong>John Smith', 'index': 2}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'pull-right text-muted', 'title': None, 'href': '#', 'content': '<strong>John Smith', 'index': 3}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'pull-right text-muted', 'title': None, 'href': '#', 'content': '<strong>John Smith', 'index': 4}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'text-center', 'title': None, 'href': '#', 'content': '<strong>Read All Messages', 'index': 5}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'dropdown-toggle', 'title': None, 'href': '#', 'content': '<i class="fa fa-tasks fa-fw"></i> <i class="fa fa-caret-down"></i>', 'index': 6}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'pull-right text-muted', 'title': None, 'href': '#', 'content': '<strong>Task 1', 'index': 7}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'pull-right text-muted', 'title': None, 'href': '#', 'content': '<strong>Task 2', 'index': 8}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'pull-right text-muted', 'title': None, 'href': '#', 'content': '<strong>Task 3', 'index': 9}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'pull-right text-muted', 'title': None, 'href': '#', 'content': '<strong>Task 4', 'index': 10}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'text-center', 'title': None, 'href': '#', 'content': '<strong>See All Tasks', 'index': 11}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'dropdown-toggle', 'title': None, 'href': '#', 'content': '<i class="fa fa-bell fa-fw"></i> <i class="fa fa-caret-down"></i>', 'index': 12}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'fa fa-comment fa-fw', 'title': None, 'href': '#', 'content': '<i class="fa fa-comment fa-fw">', 'index': 13}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'fa fa-twitter fa-fw', 'title': None, 'href': '#', 'content': '<i class="fa fa-twitter fa-fw">', 'index': 14}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'fa fa-envelope fa-fw', 'title': None, 'href': '#', 'content': '<i class="fa fa-envelope fa-fw">', 'index': 15}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'fa fa-tasks fa-fw', 'title': None, 'href': '#', 'content': '<i class="fa fa-tasks fa-fw">', 'index': 16}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'fa fa-upload fa-fw', 'title': None, 'href': '#', 'content': '<i class="fa fa-upload fa-fw">', 'index': 17}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'text-center', 'title': None, 'href': '#', 'content': '<strong>See All Alerts', 'index': 18}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'dropdown-toggle', 'title': None, 'href': '#', 'content': '<i class="fa fa-user fa-fw"></i> <i class="fa fa-caret-down"></i>', 'index': 19}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'fa fa-user fa-fw', 'title': None, 'href': '#', 'content': '<i class="fa fa-user fa-fw"></i> User Profile', 'index': 20}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'fa fa-gear fa-fw', 'title': None, 'href': '#', 'content': '<i class="fa fa-gear fa-fw"></i> Settings', 'index': 21}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'fa fa-sign-out fa-fw', 'title': None, 'href': 'login.html', 'content': '<i class="fa fa-sign-out fa-fw"></i> Logout', 'index': 22}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'fa fa-dashboard fa-fw', 'title': None, 'href': 'index.html', 'content': '<i class="fa fa-dashboard fa-fw"></i> Dashboard', 'index': 23}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'panel-footer', 'title': None, 'href': '#', 'content': '<span class="pull-left">View Details', 'index': 24}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'panel-footer', 'title': None, 'href': '#', 'content': '<span class="pull-left">View Details', 'index': 25}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'panel-footer', 'title': None, 'href': '#', 'content': '<span class="pull-left">View Details', 'index': 26}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'panel-footer', 'title': None, 'href': '#', 'content': '<span class="pull-left">View Details', 'index': 27}
+Candidate element: {'id': None, 'tag': 'a', 'class': None, 'title': None, 'href': '#', 'content': 'Action', 'index': 28}
+Candidate element: {'id': None, 'tag': 'a', 'class': None, 'title': None, 'href': '#', 'content': 'Another action', 'index': 29}
+Candidate element: {'id': None, 'tag': 'a', 'class': None, 'title': None, 'href': '#', 'content': 'Something else here', 'index': 30}
+Candidate element: {'id': None, 'tag': 'a', 'class': None, 'title': None, 'href': '#', 'content': 'Separated link', 'index': 31}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'btn btn-success', 'title': 'Make-Button', 'href': '#ok', 'content': 'Do all GREAT', 'index': 32}
+"class" parameter is identical, candidate weight is increased by 1
+"title" parameter is identical, candidate weight is increased by 1
+"href" parameter is identical, candidate weight is increased by 1
+Candidate element: {'id': None, 'tag': 'a', 'class': 'list-group-item', 'title': None, 'href': '#', 'content': '<i class="fa fa-comment fa-fw">', 'index': 33}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'list-group-item', 'title': None, 'href': '#', 'content': '<i class="fa fa-twitter fa-fw">', 'index': 34}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'list-group-item', 'title': None, 'href': '#', 'content': '<i class="fa fa-envelope fa-fw">', 'index': 35}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'list-group-item', 'title': None, 'href': '#', 'content': '<i class="fa fa-tasks fa-fw">', 'index': 36}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'list-group-item', 'title': None, 'href': '#', 'content': '<i class="fa fa-upload fa-fw">', 'index': 37}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'list-group-item', 'title': None, 'href': '#', 'content': '<i class="fa fa-bolt fa-fw">', 'index': 38}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'list-group-item', 'title': None, 'href': '#', 'content': '<i class="fa fa-warning fa-fw">', 'index': 39}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'list-group-item', 'title': None, 'href': '#', 'content': '<i class="fa fa-shopping-cart fa-fw">', 'index': 40}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'list-group-item', 'title': None, 'href': '#', 'content': '<i class="fa fa-money fa-fw">', 'index': 41}
+Candidate element: {'id': None, 'tag': 'a', 'class': 'btn btn-default btn-block', 'title': None, 'href': '#', 'content': 'View All Alerts', 'index': 42}
+Biggest element weight: 3
+Found element: [document] > html > body > div#wrapper > div#page-wrapper > div.row > div.col-lg-8 > div.panel.panel-default > div.panel-footer > a.btn btn-success
