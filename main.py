@@ -33,7 +33,7 @@ def read_file(path):
         with open(path) as f:
             content = f.read()
     except FileNotFoundError:
-        exit_with_an_error('File not found')
+        exit_with_an_error('File {} not found'.format(path))
     return content
 
 
@@ -42,7 +42,7 @@ def get_element_by_id(html, id):
     element = soup.find(id=id)
 
     if not element:
-        exit_with_an_error('No element with the given ID found')
+        exit_with_an_error('Element with the ID="{}" not found'.format(id))
 
     return element
 
@@ -99,11 +99,13 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('origin_file_path', type=str, help='Origin file path')
     parser.add_argument('diff_file_path', type=str, help='Diff file path')
+    parser.add_argument('--id', type=str, help='ID for the element')
     args = parser.parse_args()
 
     origin = read_file(args.origin_file_path)
     diff = read_file(args.diff_file_path)
-    original_element = get_element_by_id(origin, "make-everything-ok-button")
+    element_id = args.id if args.id is not None else 'make-everything-ok-button'
+    original_element = get_element_by_id(origin, element_id)
     parsed_original = parse_element(str(original_element))
     candidate_elements = search_elements_by_tag(diff, parsed_original.get('tag'))
     candidates_parsed = [parse_element(str(el), idx) for idx, el in enumerate(candidate_elements)]
